@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: 学生
+role: 本科生
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: 华中农业大学
+  url: "www.hzau.edu.cn"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
