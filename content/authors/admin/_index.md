@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zhouxin Yu
+title: 于宙鑫
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Student
+role: 学生
 
 # Organizations/Affiliations
 organizations:
