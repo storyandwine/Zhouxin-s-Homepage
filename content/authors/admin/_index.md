@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zhouxin's Homepage
+title: Zhouxin Yu
 
 # Username (this should match the folder name)
 authors:
